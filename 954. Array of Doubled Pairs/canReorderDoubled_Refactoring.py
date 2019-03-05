@@ -5,14 +5,12 @@ class Solution(object):
         :rtype: bool
         """
         count = collections.Counter(A)
-        A = sorted(A, key = abs)
-        for x in A:
+        for x in sorted(A, key = abs):
             if count[x] == 0:
                 continue
-            if count[x*2] >= count[x]:
-                count[x * 2] -= count[x]
-                count[x] = 0
-            else:
+            if count[x*2] < count[x]:
                 return False
+            count[x * 2] -= count[x]
+            count[x] = 0
+                
         return True
-    
