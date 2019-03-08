@@ -5,7 +5,7 @@ class Solution(object):
         :type N: int
         :rtype: List[int]
         """
-        f = [[0 for j in range(len(cells))] for i in range(1001)]
+        f = [[0 for j in range(len(cells))] for i in range(130)]
         for i in range(len(cells)):
             f[0][i] = cells[i]
         dict = {}
@@ -19,8 +19,8 @@ class Solution(object):
                     f[now][i] = 1
                 else:
                     f[now][i] = 0
-                f[now][0] = 0
-                f[now][len(f[1-now])-1] = 0
+            f[now][0] = 0
+            f[now][len(f[1-now])-1] = 0
             ha = str(f[now])
             if ha in dict:
                 startTurn = dict[ha]
