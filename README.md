@@ -14,3 +14,4 @@
 | 991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Python](https://github.com/notruilin/LeetCode/blob/master/991.%20Broken%20Calculator/brokenCalc.py) | [:)](https://github.com/notruilin/LeetCode/wiki/991.-Broken-Calculator) | Medium |
 | 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Python](https://github.com/notruilin/LeetCode/blob/master/993.%20Cousins%20in%20Binary%20Tree/isCousins.py) |   | Easy |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python](https://github.com/notruilin/LeetCode/blob/master/994.%20Rotting%20Oranges/orangesRotting.py) |   | Easy |
+| 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Python](https://github.com/notruilin/LeetCode/blob/master/997.%20Find%20the%20Town%20Judge/findJudge.py) |   | Easy |
