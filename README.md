@@ -15,4 +15,5 @@
 | 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [Python](https://github.com/notruilin/LeetCode/blob/master/993.%20Cousins%20in%20Binary%20Tree/isCousins.py) |   | Easy |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python](https://github.com/notruilin/LeetCode/blob/master/994.%20Rotting%20Oranges/orangesRotting.py) |   | Easy |
 | 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Python](https://github.com/notruilin/LeetCode/blob/master/997.%20Find%20the%20Town%20Judge/findJudge.py) |   | Easy |
-| 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [Python](https://github.com/notruilin/LeetCode/tree/master/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations) |   | Easy |
+| 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [Python](https://github.com/notruilin/LeetCode/tree/master/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations) | [:)](https://github.com/notruilin/LeetCode/wiki/1005.-Maximize-Sum-Of-Array-After-K-Negations)  | Easy |
+
