@@ -16,4 +16,5 @@
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python](https://github.com/notruilin/LeetCode/blob/master/994.%20Rotting%20Oranges/orangesRotting.py) |   | Easy |
 | 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Python](https://github.com/notruilin/LeetCode/blob/master/997.%20Find%20the%20Town%20Judge/findJudge.py) |   | Easy |
 | 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [Python](https://github.com/notruilin/LeetCode/tree/master/1005.%20Maximize%20Sum%20Of%20Array%20After%20K%20Negations) | [:)](https://github.com/notruilin/LeetCode/wiki/1005.-Maximize-Sum-Of-Array-After-K-Negations)  | Easy |
-
+| 1006 | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/) | [Python](https://github.com/notruilin/LeetCode/tree/master/1006.%20Clumsy%20Factorial) |   | Medium |
+| 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [Python](https://github.com/notruilin/LeetCode/blob/master/1007.%20Minimum%20Domino%20Rotations%20For%20Equal%20Row/minDominoRotations.py) |   | Medium |
