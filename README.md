@@ -44,3 +44,4 @@
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Python](https://github.com/notruilin/LeetCode/blob/master/1089.%20Duplicate%20Zeros/duplicateZeros.py) |    | Easy |
 | 1090 | [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/) | [Python](https://github.com/notruilin/LeetCode/blob/master/1090.%20Largest%20Values%20From%20Labels/largestValsFromLabels.py) |    | Medium |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Python](https://github.com/notruilin/LeetCode/blob/master/1091.%20Shortest%20Path%20in%20Binary%20Matrix/shortestPathBinaryMatrix.py) |    | Medium |
+| 1092 | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | [Python](https://github.com/notruilin/LeetCode/blob/master/1092.%20Shortest%20Common%20Supersequence/shortestCommonSupersequence.py) |    | Hard |
