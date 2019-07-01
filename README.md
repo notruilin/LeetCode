@@ -42,4 +42,4 @@
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Python](https://github.com/notruilin/LeetCode/blob/master/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor/maxAncestorDiff.py) |    | Medium |
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [Python](https://github.com/notruilin/LeetCode/blob/master/1028.%20Recover%20a%20Tree%20From%20Preorder%20Traversal/recoverFromPreorder.py) |    | Hard |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Python](https://github.com/notruilin/LeetCode/blob/master/1089.%20Duplicate%20Zeros/duplicateZeros.py) |    | Easy |
-
+| 1090 | [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/) | [Python](https://github.com/notruilin/LeetCode/blob/master/1090.%20Largest%20Values%20From%20Labels/largestValsFromLabels.py) |    | Medium |
