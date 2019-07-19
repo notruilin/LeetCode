@@ -52,6 +52,7 @@
 | 1105 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | [Java](https://github.com/notruilin/LeetCode/tree/master/1105.%20Filling%20Bookcase%20Shelves) |    | Medium |
 | 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1106.%20Parsing%20A%20Boolean%20Expression/parseBoolExpr.java) |    | Hard |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java](https://github.com/notruilin/LeetCode/tree/master/1108.%20Defanging%20an%20IP%20Address) |    | Easy |
+| 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | [Java](https://github.com/notruilin/LeetCode/tree/master/1109.%20Corporate%20Flight%20Bookings) |    | Medium |
 | 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [Java](https://github.com/notruilin/LeetCode/tree/master/1110.%20Delete%20Nodes%20And%20Return%20Forest) |    | Medium |
 | 1114 | [Print in Order](https://leetcode.com/problems/print-in-order/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1114.%20Print%20in%20Order/Foo.java) |    | Easy |
 | 1115 | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1115.%20Print%20FooBar%20Alternately/FooBar.java) |    | Medium |
