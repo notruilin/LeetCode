@@ -70,13 +70,6 @@ class Solution {
                 }
             }
         }
-        for (int i = 0; i < n; i++) {
-            System.out.print(dLastRed[i] + " ");
-        }
-        System.out.println();
-        for (int i = 0; i < n; i++) {
-            System.out.print(dLastBlue[i] + " ");
-        }
         int[] ans = new int[n];
         for (int i = 0; i < n; i++) {
             ans[i] = dLastRed[i];
