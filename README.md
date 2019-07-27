@@ -6,6 +6,7 @@
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](https://github.com/notruilin/LeetCode/blob/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters/lengthOfLongestSubstring.cpp) |   | Medium |
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Java](https://github.com/notruilin/LeetCode/blob/master/10.%20Regular%20Expression%20Matching/isMatch.java) |   | Hard |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/notruilin/LeetCode/blob/master/20.%20Valid%20Parentheses/isValid.java) |   | Easy |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](https://github.com/notruilin/LeetCode/blob/master/22.%20Generate%20Parentheses/generateParenthesis.java) |   | Medium |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](https://github.com/notruilin/LeetCode/blob/master/344.%20Reverse%20String/reverseString.java) |   | Easy |
 | 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) | [Python](https://github.com/notruilin/LeetCode/blob/master/910.%20Smallest%20Range%20II/smallestRangeII.py) |   | Medium |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Python](https://github.com/notruilin/LeetCode/blob/master/917.%20Reverse%20Only%20Letters/reverseOnlyLetters.py) |   | Easy |
