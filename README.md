@@ -7,6 +7,7 @@
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Java](https://github.com/notruilin/LeetCode/blob/master/10.%20Regular%20Expression%20Matching/isMatch.java) |   | Hard |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/notruilin/LeetCode/blob/master/20.%20Valid%20Parentheses/isValid.java) |   | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](https://github.com/notruilin/LeetCode/blob/master/22.%20Generate%20Parentheses/generateParenthesis.java) |   | Medium |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](https://github.com/notruilin/LeetCode/blob/master/23.%20Merge%20k%20Sorted%20Lists/mergeKLists.java) |   | Hard |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](https://github.com/notruilin/LeetCode/blob/master/66.%20Plus%20One/plusOne.java) |   | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](https://github.com/notruilin/LeetCode/blob/master/344.%20Reverse%20String/reverseString.java) |   | Easy |
 | 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) | [Python](https://github.com/notruilin/LeetCode/blob/master/910.%20Smallest%20Range%20II/smallestRangeII.py) |   | Medium |
