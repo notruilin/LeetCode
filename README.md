@@ -54,6 +54,7 @@
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1051.%20Height%20Checker/heightChecker.java) |    | Easy |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1052.%20Grumpy%20Bookstore%20Owner/maxSatisfied.java) |    | Medium |
 | 1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1053.%20Previous%20Permutation%20With%20One%20Swap/prevPermOpt1.java) |    | Medium |
+| 1056 | [Confusing Number](https://leetcode.com/problems/confusing-number/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1056.%20Confusing%20Number/confusingNumber.java) |    | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1071.%20Greatest%20Common%20Divisor%20of%20Strings/gcdOfStrings.java) |    | Easy |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1078.%20Occurrences%20After%20Bigram/findOcurrences.java) |    | Easy |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Python](https://github.com/notruilin/LeetCode/blob/master/1089.%20Duplicate%20Zeros/duplicateZeros.py) |    | Easy |
