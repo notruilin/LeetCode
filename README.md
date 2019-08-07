@@ -5,6 +5,7 @@
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](https://github.com/notruilin/LeetCode/blob/master/2.%20Add%20Two%20Numbers/addTwoNumbers.cpp) |   | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](https://github.com/notruilin/LeetCode/blob/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters/lengthOfLongestSubstring.cpp) |   | Medium |
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Java](https://github.com/notruilin/LeetCode/blob/master/10.%20Regular%20Expression%20Matching/isMatch.java) |   | Hard |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Java](https://github.com/notruilin/LeetCode/tree/master/15.%203Sum) |   | Medium |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/notruilin/LeetCode/blob/master/20.%20Valid%20Parentheses/isValid.java) |   | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](https://github.com/notruilin/LeetCode/blob/master/22.%20Generate%20Parentheses/generateParenthesis.java) |   | Medium |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](https://github.com/notruilin/LeetCode/blob/master/23.%20Merge%20k%20Sorted%20Lists/mergeKLists.java) |   | Hard |
