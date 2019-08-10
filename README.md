@@ -60,6 +60,7 @@
 | 1055 | [Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1055.%20Shortest%20Way%20to%20Form%20String/shortestWay.java) |    | Medium |
 | 1056 | [Confusing Number](https://leetcode.com/problems/confusing-number/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1056.%20Confusing%20Number/confusingNumber.java) |    | Easy |
 | 1064 | [Fixed Point](https://leetcode.com/problems/fixed-point/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1064.%20Fixed%20Point/fixedPoint.java) |    | Easy |
+| 1065 | [Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1065.%20Index%20Pairs%20of%20a%20String/indexPairs.java) |    | Easy |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1071.%20Greatest%20Common%20Divisor%20of%20Strings/gcdOfStrings.java) |    | Easy |
 | 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1078.%20Occurrences%20After%20Bigram/findOcurrences.java) |    | Easy |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [Python](https://github.com/notruilin/LeetCode/blob/master/1089.%20Duplicate%20Zeros/duplicateZeros.py) |    | Easy |
