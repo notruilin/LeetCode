@@ -92,4 +92,7 @@
 | 1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1138.%20Alphabet%20Board%20Path/alphabetBoardPath.java) |    | Medium |
 | 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1139.%20Largest%201-Bordered%20Square/largest1BorderedSquare.java) |    | Medium |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1140.%20Stone%20Game%20II/stoneGameII.java) |    | Medium |
+| 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1154.%20Day%20of%20the%20Year/dayOfYear.java) |    | Easy |
+| 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum/numRollsToTarget.java) |    | Medium |
+| 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1156.%20Swap%20For%20Longest%20Repeated%20Character%20Substring/maxRepOpt1.java) |    | Medium |
 
