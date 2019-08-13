@@ -11,6 +11,7 @@
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](https://github.com/notruilin/LeetCode/blob/master/23.%20Merge%20k%20Sorted%20Lists/mergeKLists.java) |   | Hard |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](https://github.com/notruilin/LeetCode/blob/master/31.%20Next%20Permutation/nextPermutation.java) |   | Medium |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java](https://github.com/notruilin/LeetCode/blob/master/54.%20Spiral%20Matrix/spiralOrder.java) |   | Medium |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](https://github.com/notruilin/LeetCode/blob/master/56.%20Merge%20Intervals/merge.java) |   | Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](https://github.com/notruilin/LeetCode/blob/master/66.%20Plus%20One/plusOne.java) |   | Easy |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](https://github.com/notruilin/LeetCode/blob/master/200.%20Number%20of%20Islands/numIslands.java) |   | Medium |
 | 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | [Java](https://github.com/notruilin/LeetCode/blob/master/246.%20Strobogrammatic%20Number/isStrobogrammatic.java) |   | Easy |
