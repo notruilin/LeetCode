@@ -14,6 +14,7 @@
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](https://github.com/notruilin/LeetCode/blob/master/56.%20Merge%20Intervals/merge.java) |   | Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](https://github.com/notruilin/LeetCode/blob/master/66.%20Plus%20One/plusOne.java) |   | Easy |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](https://github.com/notruilin/LeetCode/blob/master/200.%20Number%20of%20Islands/numIslands.java) |   | Medium |
+| 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Java](https://github.com/notruilin/LeetCode/blob/master/222.%20Count%20Complete%20Tree%20Nodes/countNodes.java) |   | Medium |
 | 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | [Java](https://github.com/notruilin/LeetCode/blob/master/246.%20Strobogrammatic%20Number/isStrobogrammatic.java) |   | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](https://github.com/notruilin/LeetCode/blob/master/344.%20Reverse%20String/reverseString.java) |   | Easy |
 | 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) | [Python](https://github.com/notruilin/LeetCode/blob/master/910.%20Smallest%20Range%20II/smallestRangeII.py) |   | Medium |
