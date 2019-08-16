@@ -100,4 +100,4 @@
 | 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1154.%20Day%20of%20the%20Year/dayOfYear.java) |    | Easy |
 | 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Sum/numRollsToTarget.java) |    | Medium |
 | 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1156.%20Swap%20For%20Longest%20Repeated%20Character%20Substring/maxRepOpt1.java) |    | Medium |
-
+| 1157 | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1157.%20Online%20Majority%20Element%20In%20Subarray/MajorityChecker.java) |    | Hard |
