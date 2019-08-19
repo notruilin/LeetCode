@@ -85,6 +85,7 @@
 | 1113 | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1133.%20Largest%20Unique%20Number/largestUniqueNumber.java) |    | Easy |
 | 1114 | [Print in Order](https://leetcode.com/problems/print-in-order/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1114.%20Print%20in%20Order/Foo.java) |    | Easy |
 | 1115 | [Print FooBar Alternately](https://leetcode.com/problems/print-foobar-alternately/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1115.%20Print%20FooBar%20Alternately/FooBar.java) |    | Medium |
+| 1118 | [Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1118.%20Number%20of%20Days%20in%20a%20Month/numberOfDays.java) |    | Easy |
 | 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1122.%20Relative%20Sort%20Array/relativeSortArray.java) |    | Easy |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [Java](https://github.com/notruilin/LeetCode/tree/master/1123.%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves) |    | Medium |
 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [Java](https://github.com/notruilin/LeetCode/tree/master/1124.%20Longest%20Well-Performing%20Interval) |    | Medium |
