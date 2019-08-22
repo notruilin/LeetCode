@@ -19,6 +19,7 @@
 | 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Java](https://github.com/notruilin/LeetCode/blob/master/241.%20Different%20Ways%20to%20Add%20Parentheses/diffWaysToCompute.java) |   | Medium |
 | 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | [Java](https://github.com/notruilin/LeetCode/blob/master/246.%20Strobogrammatic%20Number/isStrobogrammatic.java) |   | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](https://github.com/notruilin/LeetCode/blob/master/344.%20Reverse%20String/reverseString.java) |   | Easy |
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Java](https://github.com/notruilin/LeetCode/blob/master/844.%20Backspace%20String%20Compare/getString.java) |   | Easy |
 | 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) | [Python](https://github.com/notruilin/LeetCode/blob/master/910.%20Smallest%20Range%20II/smallestRangeII.py) |   | Medium |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Python](https://github.com/notruilin/LeetCode/blob/master/917.%20Reverse%20Only%20Letters/reverseOnlyLetters.py) |   | Easy |
 | 954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [Python](https://github.com/notruilin/LeetCode/tree/master/954.%20Array%20of%20Doubled%20Pairs) | [:)](https://github.com/notruilin/LeetCode/wiki/954.-Array-of-Doubled-Pairs)   | Medium     |
