@@ -1,6 +1,6 @@
 class DinnerPlates {
-    TreeMap<Integer, Integer> leftTree = new TreeMap();
-    TreeMap<Integer, Integer> rightTree = new TreeMap();
+    TreeSet<Integer> leftTree = new TreeSet();
+    TreeSet<Integer> rightTree = new TreeSet();
     List<Stack<Integer>> stackList = new ArrayList();
     int capacity;
     
@@ -13,11 +13,11 @@ class DinnerPlates {
         if (leftTree.size() == 0) {
             stackList.add(new Stack<Integer>());
             index = stackList.size() - 1;
-            leftTree.put(index, 1);
-            rightTree.put(index, 1);
+            leftTree.add(index);
+            rightTree.add(index);
         }
         else {
-            index = leftTree.firstKey();
+            index = leftTree.first();
         }
         stackList.get(index).push(val);
         if (stackList.get(index).size() == capacity) {
@@ -27,7 +27,7 @@ class DinnerPlates {
     
     public int pop() {
         if (rightTree.size() == 0)  return -1;
-        int index = rightTree.lastKey();
+        int index = rightTree.last();
         return popAtStack(index);
     }
     
@@ -39,7 +39,7 @@ class DinnerPlates {
             rightTree.remove(index);
         }
         if (stackList.get(index).size() == capacity - 1) {
-            leftTree.put(index, 1);
+            leftTree.add(index);
         }
         return val;
     }
