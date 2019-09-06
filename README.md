@@ -2,6 +2,7 @@
 
 | #   | Title                  | Code   | Wiki | Difficulty |
 |-----|------------------------|--------|------|------------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1.%20Two%20Sum/twoSum.java) |   | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C++](https://github.com/notruilin/LeetCode/blob/master/2.%20Add%20Two%20Numbers/addTwoNumbers.cpp) |   | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](https://github.com/notruilin/LeetCode/blob/master/3.%20Longest%20Substring%20Without%20Repeating%20Characters/lengthOfLongestSubstring.cpp) |   | Medium |
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Java](https://github.com/notruilin/LeetCode/blob/master/10.%20Regular%20Expression%20Matching/isMatch.java) |   | Hard |
