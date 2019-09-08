@@ -128,3 +128,4 @@
 | 1176 | [Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1176.%20Diet%20Plan%20Performance/dietPlanPerformance.java) |    | Easy |
 | 1177 | [Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1177.%20Can%20Make%20Palindrome%20from%20Substring/canMakePaliQueries.java) |    | Medium |
 | 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1184.%20Distance%20Between%20Bus%20Stops/distanceBetweenBusStops.java) |    | Easy |
+| 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1185.%20Day%20of%20the%20Week/dayOfTheWeek.java) |    | Easy |
