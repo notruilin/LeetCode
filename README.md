@@ -133,3 +133,5 @@
 | 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1184.%20Distance%20Between%20Bus%20Stops/distanceBetweenBusStops.java) |    | Easy |
 | 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1185.%20Day%20of%20the%20Week/dayOfTheWeek.java) |    | Easy |
 | 1187 | [Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1187.%20Make%20Array%20Strictly%20Increasing/makeArrayIncreasing.java) |    | Hard |
+| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1189.%20Maximum%20Number%20of%20Balloons/maxNumberOfBalloons.java) |    | Easy |
+| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1189.%20Maximum%20Number%20of%20Balloons/maxNumberOfBalloons.java) |    | Easy |
