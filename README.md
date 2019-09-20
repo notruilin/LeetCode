@@ -15,7 +15,7 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Java](https://github.com/notruilin/LeetCode/blob/master/21.%20Merge%20Two%20Sorted%20Lists/mergeTwoLists.java) |   | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](https://github.com/notruilin/LeetCode/blob/master/22.%20Generate%20Parentheses/generateParenthesis.java) |   | Medium |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](https://github.com/notruilin/LeetCode/blob/master/23.%20Merge%20k%20Sorted%20Lists/mergeKLists.java) |   | Hard |
-| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](https://github.com/notruilin/LeetCode/blob/master/24.%20Swap%20Nodes%20in%20Pairs/swapPairs.java) |   | Medium |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](https://github.com/notruilin/LeetCode/tree/master/24.%20Swap%20Nodes%20in%20Pairs) |   | Medium |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](https://github.com/notruilin/LeetCode/tree/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array) |   | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](https://github.com/notruilin/LeetCode/blob/master/27.%20Remove%20Element/removeElement.java) |   | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java](https://github.com/notruilin/LeetCode/blob/master/28.%20Implement%20strStr()/strStr.java) |   | Easy |
