@@ -153,3 +153,8 @@
 | 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1201.%20Ugly%20Number%20III/nthUglyNumber.java) |    | Medium |
 | 1202 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1202.%20Smallest%20String%20With%20Swaps/smallestStringWithSwaps.java) |    | Medium |
 | 1203 | [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1203.%20Sort%20Items%20by%20Groups%20Respecting%20Dependencies/sortItems.java) |    | Hard |
+| 1217 | [Play with Chips](https://leetcode.com/problems/play-with-chips/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1217.%20Play%20with%20Chips/minCostToMoveChips.java) |    | Easy |
+| 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/longestSubsequence.java) |    | Medium |
+| 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1219.%20Path%20with%20Maximum%20Gold/getMaximumGold.java) |    | Medium |
+| 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1220.%20Count%20Vowels%20Permutation/countVowelPermutation.java) |    | Hard |
+
