@@ -160,4 +160,6 @@
 | 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1218.%20Longest%20Arithmetic%20Subsequence%20of%20Given%20Difference/longestSubsequence.java) |    | Medium |
 | 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1219.%20Path%20with%20Maximum%20Gold/getMaximumGold.java) |    | Medium |
 | 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1220.%20Count%20Vowels%20Permutation/countVowelPermutation.java) |    | Hard |
-
+| 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1221.%20Split%20a%20String%20in%20Balanced%20Strings/balancedStringSplit.java) |    | Easy |
+| 1222 | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1222.%20Queens%20That%20Can%20Attack%20the%20King/queensAttacktheKing.java) |    | Medium |
+| 1223 | [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1223.%20Dice%20Roll%20Simulation/dieSimulator.java) |    | Medium |
