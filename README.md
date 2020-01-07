@@ -194,4 +194,4 @@
 | 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping/freqAlphabets.java) |    | Easy |
 | 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1310.%20XOR%20Queries%20of%20a%20Subarray/xorQueries.java) |    | Medium |
 | 1311 | [Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1311.%20Get%20Watched%20Videos%20by%20Your%20Friends/watchedVideosByFriends.java) |    | Medium |
-
+| 1312 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1312.%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome/minInsertions.java) |    | Hard |
