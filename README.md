@@ -36,6 +36,7 @@
 | 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Java](https://github.com/notruilin/LeetCode/blob/master/241.%20Different%20Ways%20to%20Add%20Parentheses/diffWaysToCompute.java) |   | Medium |
 | 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | [Java](https://github.com/notruilin/LeetCode/blob/master/246.%20Strobogrammatic%20Number/isStrobogrammatic.java) |   | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](https://github.com/notruilin/LeetCode/blob/master/344.%20Reverse%20String/reverseString.java) |   | Easy |
+| 524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [Java](https://github.com/notruilin/LeetCode/blob/master/524.%20Longest%20Word%20in%20Dictionary%20through%20Deleting/findLongestWord.java) |   | Medium |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Java](https://github.com/notruilin/LeetCode/blob/master/551.%20Student%20Attendance%20Record%20I/checkRecord.java) |   | Easy |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Java](https://github.com/notruilin/LeetCode/blob/master/560.%20Subarray%20Sum%20Equals%20K/subarraySum.java) |   | Medium |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Java](https://github.com/notruilin/LeetCode/blob/master/645.%20Set%20Mismatch/findErrorNums.java) |   | Easy |
