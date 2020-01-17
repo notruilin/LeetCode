@@ -25,6 +25,7 @@
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java](https://github.com/notruilin/LeetCode/blob/master/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/searchRange.java) |   | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](https://github.com/notruilin/LeetCode/blob/master/35.%20Search%20Insert%20Position/searchInsert.java) |   | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Java](https://github.com/notruilin/LeetCode/blob/master/36.%20Valid%20Sudoku/checkSquare.java) |   | Medium |
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Java](https://github.com/notruilin/LeetCode/blob/master/37.%20Sudoku%20Solver/solveSudoku.java) |   | Hard |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Java](https://github.com/notruilin/LeetCode/blob/master/38.%20Count%20and%20Say/countAndSay.java) |   | Easy |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java](https://github.com/notruilin/LeetCode/blob/master/54.%20Spiral%20Matrix/spiralOrder.java) |   | Medium |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](https://github.com/notruilin/LeetCode/blob/master/56.%20Merge%20Intervals/merge.java) |   | Medium |
