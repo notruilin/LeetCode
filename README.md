@@ -29,6 +29,7 @@
 | 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Java](https://github.com/notruilin/LeetCode/blob/master/37.%20Sudoku%20Solver/solveSudoku.java) |   | Hard |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Java](https://github.com/notruilin/LeetCode/blob/master/38.%20Count%20and%20Say/countAndSay.java) |   | Easy |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Java](https://github.com/notruilin/LeetCode/tree/master/39.%20Combination%20Sum) |   | Medium |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](https://github.com/notruilin/LeetCode/blob/master/53.%20Maximum%20Subarray/maxSubArray.java) |   | Easy |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Java](https://github.com/notruilin/LeetCode/blob/master/54.%20Spiral%20Matrix/spiralOrder.java) |   | Medium |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Java](https://github.com/notruilin/LeetCode/blob/master/56.%20Merge%20Intervals/merge.java) |   | Medium |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Java](https://github.com/notruilin/LeetCode/blob/master/59.%20Spiral%20Matrix%20II/generateMatrix.java) |   | Medium |
