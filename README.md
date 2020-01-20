@@ -102,6 +102,7 @@
 | 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1029.%20Two%20City%20Scheduling/twoCitySchedCost.java) |    | Easy |
 | 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1037.%20Valid%20Boomerang/isBoomerang.java) |    | Easy |
 | 1042 | [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1042.%20Flower%20Planting%20With%20No%20Adjacent/gardenNoAdj.java) |    | Easy |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1046.%20Last%20Stone%20Weight/lastStoneWeight.java) |    | Easy |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1051.%20Height%20Checker/heightChecker.java) |    | Easy |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1052.%20Grumpy%20Bookstore%20Owner/maxSatisfied.java) |    | Medium |
 | 1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1053.%20Previous%20Permutation%20With%20One%20Swap/prevPermOpt1.java) |    | Medium |
