@@ -55,6 +55,7 @@
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Java](https://github.com/notruilin/LeetCode/blob/master/844.%20Backspace%20String%20Compare/getString.java) |   | Easy |
 | 883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Java](https://github.com/notruilin/LeetCode/blob/master/883.%20Projection%20Area%20of%203D%20Shapes/projectionArea.java) |   | Easy |
 | 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) | [Python](https://github.com/notruilin/LeetCode/blob/master/910.%20Smallest%20Range%20II/smallestRangeII.py) |   | Medium |
+| 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [Java](https://github.com/notruilin/LeetCode/blob/master/912.%20Sort%20an%20Array/mergeSort.java) |   | Medium |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Python](https://github.com/notruilin/LeetCode/blob/master/917.%20Reverse%20Only%20Letters/reverseOnlyLetters.py) |   | Easy |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Java](https://github.com/notruilin/LeetCode/blob/master/922.%20Sort%20Array%20By%20Parity%20II/sortArrayByParityII.java) |   | Easy |
 | 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [Java](https://github.com/notruilin/LeetCode/blob/master/945.%20Minimum%20Increment%20to%20Make%20Array%20Unique/minIncrementForUnique.java) |  | Medium     |
