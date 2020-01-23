@@ -36,6 +36,7 @@
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Java](https://github.com/notruilin/LeetCode/blob/master/59.%20Spiral%20Matrix%20II/generateMatrix.java) |   | Medium |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Java](https://github.com/notruilin/LeetCode/blob/master/64.%20Minimum%20Path%20Sum/minPathSum.java) |   | Medium |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](https://github.com/notruilin/LeetCode/blob/master/66.%20Plus%20One/plusOne.java) |   | Easy |
+| 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Java](https://github.com/notruilin/LeetCode/blob/master/68.%20Text%20Justification/fullJustify.java) |   | Hard |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](https://github.com/notruilin/LeetCode/blob/master/88.%20Merge%20Sorted%20Array/merge.java) |   | Easy |
 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Java](https://github.com/notruilin/LeetCode/blob/master/163.%20Missing%20Ranges/findMissingRanges.java) |   | Medium |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](https://github.com/notruilin/LeetCode/blob/master/200.%20Number%20of%20Islands/numIslands.java) |   | Medium |
