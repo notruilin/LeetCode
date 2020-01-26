@@ -234,3 +234,4 @@
 | 5315 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Java](https://github.com/notruilin/LeetCode/blob/master/5315.%20Maximum%2069%20Number/maximum69Number.java) |    | Easy |
 | 5316 | [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/) | [Java](https://github.com/notruilin/LeetCode/blob/master/5316.%20Print%20Words%20Vertically/printVertically.java) |    | Medium |
 | 5317 | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | [Java](https://github.com/notruilin/LeetCode/blob/master/5317.%20Delete%20Leaves%20With%20a%20Given%20Value/removeLeafNodes.java) |    | Medium |
+| 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Java](https://github.com/notruilin/LeetCode/blob/master/1332.%20Remove%20Palindromic%20Subsequences/removePalindromeSub.java) |    | Easy |
