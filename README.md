@@ -41,6 +41,7 @@
 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Java](https://github.com/notruilin/LeetCode/blob/master/163.%20Missing%20Ranges/findMissingRanges.java) |   | Medium |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](https://github.com/notruilin/LeetCode/blob/master/200.%20Number%20of%20Islands/numIslands.java) |   | Medium |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](https://github.com/notruilin/LeetCode/blob/master/208.%20Implement%20Trie%20(Prefix%20Tree)/Trie.java) |   | Medium |
+| 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Java](https://github.com/notruilin/LeetCode/blob/master/221.%20Maximal%20Square/maximalSquare.java) |   | Medium |
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Java](https://github.com/notruilin/LeetCode/blob/master/222.%20Count%20Complete%20Tree%20Nodes/countNodes.java) |   | Medium |
 | 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Java](https://github.com/notruilin/LeetCode/blob/master/241.%20Different%20Ways%20to%20Add%20Parentheses/diffWaysToCompute.java) |   | Medium |
 | 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | [Java](https://github.com/notruilin/LeetCode/blob/master/246.%20Strobogrammatic%20Number/isStrobogrammatic.java) |   | Easy |
