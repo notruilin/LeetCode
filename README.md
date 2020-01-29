@@ -57,6 +57,7 @@
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Java](https://github.com/notruilin/LeetCode/blob/master/551.%20Student%20Attendance%20Record%20I/checkRecord.java) |   | Easy |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Java](https://github.com/notruilin/LeetCode/blob/master/560.%20Subarray%20Sum%20Equals%20K/subarraySum.java) |   | Medium |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Java](https://github.com/notruilin/LeetCode/blob/master/645.%20Set%20Mismatch/findErrorNums.java) |   | Easy |
+| 734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) | [Java](https://github.com/notruilin/LeetCode/blob/master/734.%20Sentence%20Similarity/areSentencesSimilar.java) |   | Easy |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [JavaScirpt](https://github.com/notruilin/LeetCode/blob/master/746.%20Min%20Cost%20Climbing%20Stairs/minCostClimbingStairs.js) |   | Easy |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Java](https://github.com/notruilin/LeetCode/blob/master/844.%20Backspace%20String%20Compare/getString.java) |   | Easy |
 | 883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [Java](https://github.com/notruilin/LeetCode/blob/master/883.%20Projection%20Area%20of%203D%20Shapes/projectionArea.java) |   | Easy |
