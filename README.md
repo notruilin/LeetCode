@@ -38,6 +38,7 @@
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](https://github.com/notruilin/LeetCode/blob/master/66.%20Plus%20One/plusOne.java) |   | Easy |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Java](https://github.com/notruilin/LeetCode/blob/master/68.%20Text%20Justification/fullJustify.java) |   | Hard |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](https://github.com/notruilin/LeetCode/blob/master/88.%20Merge%20Sorted%20Array/merge.java) |   | Easy |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Java](https://github.com/notruilin/LeetCode/blob/master/124.%20Binary%20Tree%20Maximum%20Path%20Sum/maxPathSum.java) |   | Hard |
 | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Java](https://github.com/notruilin/LeetCode/blob/master/163.%20Missing%20Ranges/findMissingRanges.java) |   | Medium |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Java](https://github.com/notruilin/LeetCode/blob/master/200.%20Number%20of%20Islands/numIslands.java) |   | Medium |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Java](https://github.com/notruilin/LeetCode/blob/master/208.%20Implement%20Trie%20(Prefix%20Tree)/Trie.java) |   | Medium |
