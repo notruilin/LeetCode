@@ -45,6 +45,7 @@
 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Java](https://github.com/notruilin/LeetCode/blob/master/221.%20Maximal%20Square/maximalSquare.java) |   | Medium |
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Java](https://github.com/notruilin/LeetCode/blob/master/222.%20Count%20Complete%20Tree%20Nodes/countNodes.java) |   | Medium |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](https://github.com/notruilin/LeetCode/blob/master/226.%20Invert%20Binary%20Tree/invertTree.java) |   | Easy |
+| 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Java](https://github.com/notruilin/LeetCode/blob/master/228.%20Summary%20Ranges/summaryRanges.java) |   | Medium |
 | 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [Java](https://github.com/notruilin/LeetCode/blob/master/241.%20Different%20Ways%20to%20Add%20Parentheses/diffWaysToCompute.java) |   | Medium |
 | 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | [Java](https://github.com/notruilin/LeetCode/blob/master/246.%20Strobogrammatic%20Number/isStrobogrammatic.java) |   | Easy |
 | 271 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [Java](https://github.com/notruilin/LeetCode/blob/master/271.%20Encode%20and%20Decode%20Strings/Codec.java) |   | Medium |
