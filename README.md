@@ -61,6 +61,7 @@
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](https://github.com/notruilin/LeetCode/blob/master/543.%20Diameter%20of%20Binary%20Tree/diameterOfBinaryTree.java) |   | Easy |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Java](https://github.com/notruilin/LeetCode/blob/master/551.%20Student%20Attendance%20Record%20I/checkRecord.java) |   | Easy |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Java](https://github.com/notruilin/LeetCode/blob/master/560.%20Subarray%20Sum%20Equals%20K/subarraySum.java) |   | Medium |
+| 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Java](https://github.com/notruilin/LeetCode/blob/master/572.%20Subtree%20of%20Another%20Tree/isSubtree.java) |   | Easy |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Java](https://github.com/notruilin/LeetCode/blob/master/645.%20Set%20Mismatch/findErrorNums.java) |   | Easy |
 | 681 | [Next Closest Time](https://leetcode.com/problems/next-closest-time/) | [Java](https://github.com/notruilin/LeetCode/blob/master/681.%20Next%20Closest%20Time/nextClosestTime.java) |   | Medium |
 | 731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/) | [Java](https://github.com/notruilin/LeetCode/blob/master/731.%20My%20Calendar%20II/MyCalendarTwo.java) |   | Medium |
