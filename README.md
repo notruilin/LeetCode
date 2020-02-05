@@ -39,6 +39,7 @@
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Java](https://github.com/notruilin/LeetCode/blob/master/66.%20Plus%20One/plusOne.java) |   | Easy |
 | 68 | [Text Justification](https://leetcode.com/problems/text-justification/) | [Java](https://github.com/notruilin/LeetCode/blob/master/68.%20Text%20Justification/fullJustify.java) |   | Hard |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](https://github.com/notruilin/LeetCode/blob/master/88.%20Merge%20Sorted%20Array/merge.java) |   | Easy |
+| 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Java](https://github.com/notruilin/LeetCode/blob/master/99.%20Recover%20Binary%20Search%20Tree/recoverTree_Refactoring.java) |   | Hard |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Java](https://github.com/notruilin/LeetCode/blob/master/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal/zigzagLevelOrder.java) |   | Medium |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](https://github.com/notruilin/LeetCode/blob/master/104.%20Maximum%20Depth%20of%20Binary%20Tree/maxDepth.java) |   | Easy |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Java](https://github.com/notruilin/LeetCode/blob/master/124.%20Binary%20Tree%20Maximum%20Path%20Sum/maxPathSum.java) |   | Hard |
